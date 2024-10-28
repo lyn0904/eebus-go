@@ -297,10 +297,10 @@ func (h *hems) HandleEVSEDeviceState(ski string, failure bool, errorCode string)
 // main app
 func usage() {
 	fmt.Println("First Run:")
-	fmt.Println("  go run /cmd/hems/main.go <serverport>")
+	fmt.Println("  go run /examples/hems/main.go <serverport>")
 	fmt.Println()
 	fmt.Println("General Usage:")
-	fmt.Println("  go run /cmd/hems/main.go <serverport> <remoteski> <crtfile> <keyfile>")
+	fmt.Println("  go run /examples/hems/main.go <serverport> <remoteski> <crtfile> <keyfile>")
 }
 
 func main() {
