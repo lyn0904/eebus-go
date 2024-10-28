@@ -6,6 +6,7 @@ require (
 	github.com/enbility/ship-go v0.0.0-20241006160314-3a4325a1a6d6
 	github.com/enbility/spine-go v0.0.0-20241007182100-30ee8bc405a7
 	github.com/stretchr/testify v1.9.0
+	golang.org/x/exp/jsonrpc2 v0.0.0-20240909161429-701f63a606c0
 )
 
 require (
@@ -24,7 +25,6 @@ require (
 	gitlab.com/c0b/go-ordered-json v0.0.0-20201030195603-febf46534d5a // indirect
 	go.uber.org/mock v0.4.0 // indirect
 	golang.org/x/exp/event v0.0.0-20220217172124-1812c5b45e43 // indirect
-	golang.org/x/exp/jsonrpc2 v0.0.0-20240909161429-701f63a606c0 // indirect
 	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/net v0.29.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
