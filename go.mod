@@ -3,7 +3,7 @@ module github.com/lyn0904/eebus-go
 go 1.22.0
 
 require (
-	github.com/lyn0904/ship-go v1.0.0
+	github.com/lyn0904/ship-go v1.0.1
 	github.com/lyn0904/spine-go v1.1.2
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/exp/jsonrpc2 v0.0.0-20241009180824-f66d83c29e7c

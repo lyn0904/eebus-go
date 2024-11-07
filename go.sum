@@ -18,6 +18,7 @@ github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aN
 github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/lyn0904/ship-go v1.0.0 h1:MLDrEnLry617ix5qjqKzp06/+ff9OwVtJqENEvzxcCg=
 github.com/lyn0904/ship-go v1.0.0/go.mod h1:2R8r95ySYLvQFo/wfXpgWwz3PNHT/10NycMVT7G/gv8=
+github.com/lyn0904/ship-go v1.0.1/go.mod h1:2R8r95ySYLvQFo/wfXpgWwz3PNHT/10NycMVT7G/gv8=
 github.com/lyn0904/spine-go v1.1.1 h1:zazhN+tUv+f/KCqGBCubrY3ri7LRgPBXHr6SbldHtmc=
 github.com/lyn0904/spine-go v1.1.1/go.mod h1:vzO08o/XpQr5AYtALkICXqWFHxTrqkMJ/viV+d6juOg=
 github.com/lyn0904/spine-go v1.1.2/go.mod h1:yvJaj7KM1CM8DNgcaDZrG03vQsM2HCjMvG6c/4T1ggM=
