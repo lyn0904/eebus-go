@@ -4,16 +4,15 @@ go 1.22.0
 
 require (
 	github.com/lyn0904/ship-go v1.0.0
-	github.com/lyn0904/spine-go v1.0.0
+	github.com/lyn0904/spine-go v1.1.2
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/exp/jsonrpc2 v0.0.0-20240909161429-701f63a606c0
+	golang.org/x/exp/jsonrpc2 v0.0.0-20241009180824-f66d83c29e7c
 )
 
 require (
 	github.com/ahmetb/go-linq/v3 v3.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/enbility/go-avahi v0.0.0-20240909195612-d5de6b280d7a // indirect
-	github.com/enbility/ship-go v0.6.0 // indirect
 	github.com/enbility/zeroconf/v2 v2.0.0-20240920094356-be1cae74fda6 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/golanguzb70/lrucache v1.2.0 // indirect
@@ -33,9 +32,4 @@ require (
 	golang.org/x/tools v0.25.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-)
-
-retract (
-	v0.2.2 // Contains retractions only.
-	v0.2.1 // Published accidentally.
 )
