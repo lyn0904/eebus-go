@@ -3,7 +3,7 @@ package internal
 import (
 	"github.com/enbility/eebus-go/features/client"
 	ucapi "github.com/enbility/eebus-go/usecases/api"
-	spineapi "github.com/enbility/spine-go/api"
+	spineapi "github.com/lyn0904/spine-go/api"
 )
 
 // return the current manufacturer data for a entity

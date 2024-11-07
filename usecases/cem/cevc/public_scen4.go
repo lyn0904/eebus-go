@@ -6,9 +6,9 @@ import (
 	"github.com/enbility/eebus-go/api"
 	"github.com/enbility/eebus-go/features/client"
 	ucapi "github.com/enbility/eebus-go/usecases/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/util"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/util"
 )
 
 func (e *CEVC) ChargePlanConstraints(entity spineapi.EntityRemoteInterface) ([]ucapi.DurationSlotValue, error) {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	shipapi "github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/mdns"
-	"github.com/enbility/spine-go/model"
+	shipapi "github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/mdns"
+	"github.com/lyn0904/spine-go/model"
 )
 
 const defaultPort int = 4711

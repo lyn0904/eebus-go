@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/enbility/ship-go/util"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/ship-go/util"
+	"github.com/lyn0904/spine-go/model"
 	"github.com/stretchr/testify/assert"
 )
 

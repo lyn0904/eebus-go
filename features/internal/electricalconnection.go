@@ -2,9 +2,9 @@ package internal
 
 import (
 	"github.com/enbility/eebus-go/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/util"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/util"
 )
 
 type ElectricalConnectionCommon struct {

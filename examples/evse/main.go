@@ -17,10 +17,10 @@ import (
 	"github.com/enbility/eebus-go/service"
 	ucapi "github.com/enbility/eebus-go/usecases/api"
 	"github.com/enbility/eebus-go/usecases/cs/lpc"
-	shipapi "github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/cert"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	shipapi "github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/cert"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 )
 
 var remoteSki string

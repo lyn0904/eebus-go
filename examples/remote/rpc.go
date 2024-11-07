@@ -10,7 +10,7 @@ import (
 	"github.com/enbility/eebus-go/service"
 	"golang.org/x/exp/jsonrpc2"
 
-	shipapi "github.com/enbility/ship-go/api"
+	shipapi "github.com/lyn0904/ship-go/api"
 )
 
 type Remote struct {

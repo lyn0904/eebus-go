@@ -3,9 +3,9 @@ package client
 import (
 	"testing"
 
-	shipapi "github.com/enbility/ship-go/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	shipapi "github.com/lyn0904/ship-go/api"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 )

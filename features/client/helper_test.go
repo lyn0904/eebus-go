@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	shipapi "github.com/enbility/ship-go/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/spine"
-	"github.com/enbility/spine-go/util"
+	shipapi "github.com/lyn0904/ship-go/api"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/spine"
+	"github.com/lyn0904/spine-go/util"
 	"github.com/stretchr/testify/assert"
 )
 

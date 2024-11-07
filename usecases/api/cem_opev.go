@@ -2,8 +2,8 @@ package api
 
 import (
 	"github.com/enbility/eebus-go/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // Actor: Customer Energy Management

@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // Actor: Controllable System

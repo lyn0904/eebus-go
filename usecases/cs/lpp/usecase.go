@@ -8,11 +8,11 @@ import (
 	"github.com/enbility/eebus-go/features/server"
 	ucapi "github.com/enbility/eebus-go/usecases/api"
 	"github.com/enbility/eebus-go/usecases/usecase"
-	"github.com/enbility/ship-go/logging"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/spine"
-	"github.com/enbility/spine-go/util"
+	"github.com/lyn0904/ship-go/logging"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/spine"
+	"github.com/lyn0904/spine-go/util"
 )
 
 type LPP struct {

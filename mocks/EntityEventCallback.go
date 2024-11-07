@@ -4,7 +4,7 @@ package mocks
 
 import (
 	eebus_goapi "github.com/enbility/eebus-go/api"
-	api "github.com/enbility/spine-go/api"
+	api "github.com/lyn0904/spine-go/api"
 
 	mock "github.com/stretchr/testify/mock"
 )

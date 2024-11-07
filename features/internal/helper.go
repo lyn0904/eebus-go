@@ -3,9 +3,9 @@ package internal
 import (
 	"reflect"
 
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/spine"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/spine"
 )
 
 func featureDataCopyOfType[T any](

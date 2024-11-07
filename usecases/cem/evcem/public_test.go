@@ -3,8 +3,8 @@ package evcem
 import (
 	"time"
 
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/util"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/util"
 	"github.com/stretchr/testify/assert"
 )
 

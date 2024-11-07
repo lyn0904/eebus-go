@@ -2,7 +2,7 @@ package evcc
 
 import (
 	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // value if the UCEVCC communication standard is unknown

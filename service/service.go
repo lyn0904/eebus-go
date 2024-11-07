@@ -8,14 +8,14 @@ import (
 	"sync"
 
 	"github.com/enbility/eebus-go/api"
-	shipapi "github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/cert"
-	"github.com/enbility/ship-go/hub"
-	"github.com/enbility/ship-go/logging"
-	"github.com/enbility/ship-go/mdns"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/spine"
+	shipapi "github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/cert"
+	"github.com/lyn0904/ship-go/hub"
+	"github.com/lyn0904/ship-go/logging"
+	"github.com/lyn0904/ship-go/mdns"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/spine"
 )
 
 // A service is the central element of an EEBUS service

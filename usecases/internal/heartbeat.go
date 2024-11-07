@@ -1,8 +1,8 @@
 package internal
 
 import (
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // IsHeartbeat checks if the given payload represents a heartbeat event.

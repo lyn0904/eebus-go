@@ -1,7 +1,7 @@
 package internal
 
 import (
-	spineapi "github.com/enbility/spine-go/api"
+	spineapi "github.com/lyn0904/spine-go/api"
 )
 
 func IsDeviceConnected(payload spineapi.EventPayload) bool {

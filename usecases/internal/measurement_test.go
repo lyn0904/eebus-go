@@ -2,8 +2,8 @@ package internal
 
 import (
 	ucapi "github.com/enbility/eebus-go/usecases/api"
-	"github.com/enbility/spine-go/model"
-	"github.com/enbility/spine-go/util"
+	"github.com/lyn0904/spine-go/model"
+	"github.com/lyn0904/spine-go/util"
 	"github.com/stretchr/testify/assert"
 )
 

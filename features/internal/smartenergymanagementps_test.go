@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/enbility/eebus-go/features/internal"
-	shipmocks "github.com/enbility/ship-go/mocks"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	shipmocks "github.com/lyn0904/ship-go/mocks"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"

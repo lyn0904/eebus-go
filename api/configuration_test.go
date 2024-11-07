@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	shipapi "github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/cert"
-	"github.com/enbility/ship-go/mdns"
-	spinemodel "github.com/enbility/spine-go/model"
+	shipapi "github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/cert"
+	"github.com/lyn0904/ship-go/mdns"
+	spinemodel "github.com/lyn0904/spine-go/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 )

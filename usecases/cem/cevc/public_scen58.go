@@ -2,7 +2,7 @@ package cevc
 
 import (
 	"github.com/enbility/eebus-go/features/server"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // Scenario 5 & 6

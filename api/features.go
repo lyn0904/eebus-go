@@ -3,8 +3,8 @@ package api
 import (
 	"time"
 
-	"github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // Feature client interface were the local feature role is client and the remote feature role is server

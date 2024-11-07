@@ -10,9 +10,9 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/enbility/spine-go/api"
-	spineapi "github.com/enbility/spine-go/api"
-	"github.com/enbility/spine-go/model"
+	"github.com/lyn0904/spine-go/api"
+	spineapi "github.com/lyn0904/spine-go/api"
+	"github.com/lyn0904/spine-go/model"
 )
 
 // Is this type exported or a builtin?
