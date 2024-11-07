@@ -3,7 +3,7 @@ package evcc
 import (
 	"testing"
 
-	ucapi "github.com/enbility/eebus-go/usecases/api"
+	ucapi "github.com/lyn0904/eebus-go/usecases/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/util"
 	"github.com/stretchr/testify/assert"

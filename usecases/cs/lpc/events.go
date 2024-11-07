@@ -1,9 +1,9 @@
 package lpc
 
 import (
-	"github.com/enbility/eebus-go/features/client"
-	"github.com/enbility/eebus-go/features/server"
-	internal "github.com/enbility/eebus-go/usecases/internal"
+	"github.com/lyn0904/eebus-go/features/client"
+	"github.com/lyn0904/eebus-go/features/server"
+	internal "github.com/lyn0904/eebus-go/usecases/internal"
 	"github.com/lyn0904/ship-go/logging"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"

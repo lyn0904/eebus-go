@@ -1,7 +1,7 @@
 package cevc
 
 import (
-	"github.com/enbility/eebus-go/features/server"
+	"github.com/lyn0904/eebus-go/features/server"
 	"github.com/lyn0904/spine-go/model"
 )
 

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	features "github.com/enbility/eebus-go/features/client"
+	features "github.com/lyn0904/eebus-go/features/client"
 	"github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/spine"

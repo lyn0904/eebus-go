@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/eebus-go/service"
+	"github.com/lyn0904/eebus-go/api"
+	"github.com/lyn0904/eebus-go/service"
 	"golang.org/x/exp/jsonrpc2"
 
 	shipapi "github.com/lyn0904/ship-go/api"

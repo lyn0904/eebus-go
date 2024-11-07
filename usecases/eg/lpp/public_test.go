@@ -3,8 +3,8 @@ package lpp
 import (
 	"time"
 
-	"github.com/enbility/eebus-go/features/client"
-	ucapi "github.com/enbility/eebus-go/usecases/api"
+	"github.com/lyn0904/eebus-go/features/client"
+	ucapi "github.com/lyn0904/eebus-go/usecases/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/util"
 	"github.com/stretchr/testify/assert"

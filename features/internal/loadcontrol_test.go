@@ -3,7 +3,7 @@ package internal_test
 import (
 	"testing"
 
-	"github.com/enbility/eebus-go/features/internal"
+	"github.com/lyn0904/eebus-go/features/internal"
 	shipmocks "github.com/lyn0904/ship-go/mocks"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"

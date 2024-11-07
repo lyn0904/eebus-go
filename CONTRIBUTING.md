@@ -15,13 +15,13 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Discussions and Questions
 
-For discussions, questions, feature requests, or ideas, [start a new discussion](https://github.com/enbility/eebus-go/discussions/new) in the eebus-go repository under the Discussions tab.
+For discussions, questions, feature requests, or ideas, [start a new discussion](https://github.com/lyn0904/eebus-go/discussions/new) in the eebus-go repository under the Discussions tab.
 
-Before you ask a question, it is best to search for existing [Discussions](https://github.com/enbility/eebus-go/discussions) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [Discussions](https://github.com/lyn0904/eebus-go/discussions) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [Discussion](https://github.com/enbility/eebus-go/discussions/new/choose).
+- Open an [Discussion](https://github.com/lyn0904/eebus-go/discussions/new/choose).
 - Provide as much context as you can about what you're running into.
 
 ## Bug Reports
@@ -32,7 +32,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side.
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/enbility/eebus-go/issues?q=label%3Abug).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/lyn0904/eebus-go/issues?q=label%3Abug).
 - Collect information about the bug:
   - Stack trace
   - If possible and relevant, the `trace` log of the SHIP and SPINE communication
@@ -45,7 +45,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [Issue](https://github.com/enbility/eebus-go/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
+- Open an [Issue](https://github.com/lyn0904/eebus-go/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
 
@@ -57,12 +57,12 @@ This section guides you through submitting an enhancement suggestion for eebus-g
 
 - Make sure that you are using the latest version.
 - Check the api interfaces carefully and find out if the functionality is already covered.
-- Perform a [discussion search](https://github.com/enbility/eebus-go/discussions) to see if the enhancement has already been suggested. If it has, add a comment to the existing discussion instead of opening a new one.
+- Perform a [discussion search](https://github.com/lyn0904/eebus-go/discussions) to see if the enhancement has already been suggested. If it has, add a comment to the existing discussion instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 ### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [Discussions](https://github.com/enbility/eebus-go/discussions).
+Enhancement suggestions are tracked as [Discussions](https://github.com/lyn0904/eebus-go/discussions).
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
@@ -71,7 +71,7 @@ Enhancement suggestions are tracked as [Discussions](https://github.com/enbility
 
 ## Issue Tracker
 
-The [Issue Tracker](https://github.com/enbility/eebus-go/issues) is used to discuss bug fixes and details for improvements once they agreed on as [Discussions](https://github.com/enbility/eebus-go/discussions).
+The [Issue Tracker](https://github.com/lyn0904/eebus-go/issues) is used to discuss bug fixes and details for improvements once they agreed on as [Discussions](https://github.com/lyn0904/eebus-go/discussions).
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - The issue should describe the intent of the change.
@@ -98,7 +98,7 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 ### Do you want to add a new feature or change an existing one?
 
-- Suggest your change in the [Discussions](https://github.com/enbility/eebus-go/discussions)
+- Suggest your change in the [Discussions](https://github.com/lyn0904/eebus-go/discussions)
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports, fixes, and enhancement detail discussions.
 
 ## Styleguides

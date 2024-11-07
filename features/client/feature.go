@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/enbility/eebus-go/api"
+	"github.com/lyn0904/eebus-go/api"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 )

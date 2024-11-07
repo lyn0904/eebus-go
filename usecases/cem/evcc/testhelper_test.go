@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/eebus-go/mocks"
-	"github.com/enbility/eebus-go/service"
+	"github.com/lyn0904/eebus-go/api"
+	"github.com/lyn0904/eebus-go/mocks"
+	"github.com/lyn0904/eebus-go/service"
 	shipapi "github.com/lyn0904/ship-go/api"
 	"github.com/lyn0904/ship-go/cert"
 	spineapi "github.com/lyn0904/spine-go/api"

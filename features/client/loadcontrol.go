@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/eebus-go/features/internal"
+	"github.com/lyn0904/eebus-go/api"
+	"github.com/lyn0904/eebus-go/features/internal"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/util"

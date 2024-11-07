@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/enbility/eebus-go/api"
+	"github.com/lyn0904/eebus-go/api"
 	shipmocks "github.com/lyn0904/ship-go/mocks"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"

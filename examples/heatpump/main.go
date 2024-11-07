@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/enbility/eebus-go/api"
-	features "github.com/enbility/eebus-go/features/client"
-	"github.com/enbility/eebus-go/service"
+	"github.com/lyn0904/eebus-go/api"
+	features "github.com/lyn0904/eebus-go/features/client"
+	"github.com/lyn0904/eebus-go/service"
 	shipapi "github.com/lyn0904/ship-go/api"
 	"github.com/lyn0904/ship-go/cert"
 	"github.com/lyn0904/ship-go/logging"

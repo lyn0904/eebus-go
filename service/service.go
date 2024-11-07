@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/enbility/eebus-go/api"
+	"github.com/lyn0904/eebus-go/api"
 	shipapi "github.com/lyn0904/ship-go/api"
 	"github.com/lyn0904/ship-go/cert"
 	"github.com/lyn0904/ship-go/hub"

@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/eebus-go/features/client"
-	ucapi "github.com/enbility/eebus-go/usecases/api"
+	"github.com/lyn0904/eebus-go/api"
+	"github.com/lyn0904/eebus-go/features/client"
+	ucapi "github.com/lyn0904/eebus-go/usecases/api"
 	"github.com/lyn0904/ship-go/logging"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"

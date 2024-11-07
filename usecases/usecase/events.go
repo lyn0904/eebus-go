@@ -3,7 +3,7 @@ package usecase
 import (
 	"slices"
 
-	"github.com/enbility/eebus-go/usecases/internal"
+	"github.com/lyn0904/eebus-go/usecases/internal"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 )

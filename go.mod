@@ -1,4 +1,4 @@
-module github.com/enbility/eebus-go
+module github.com/lyn0904/eebus-go
 
 go 1.22.0
 

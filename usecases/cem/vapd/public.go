@@ -1,8 +1,8 @@
 package vapd
 
 import (
-	"github.com/enbility/eebus-go/api"
-	"github.com/enbility/eebus-go/features/client"
+	"github.com/lyn0904/eebus-go/api"
+	"github.com/lyn0904/eebus-go/features/client"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/util"

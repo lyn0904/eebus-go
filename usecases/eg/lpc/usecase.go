@@ -1,9 +1,9 @@
 package lpc
 
 import (
-	"github.com/enbility/eebus-go/api"
-	ucapi "github.com/enbility/eebus-go/usecases/api"
-	usecase "github.com/enbility/eebus-go/usecases/usecase"
+	"github.com/lyn0904/eebus-go/api"
+	ucapi "github.com/lyn0904/eebus-go/usecases/api"
+	usecase "github.com/lyn0904/eebus-go/usecases/usecase"
 	spineapi "github.com/lyn0904/spine-go/api"
 	"github.com/lyn0904/spine-go/model"
 	"github.com/lyn0904/spine-go/spine"

@@ -3,7 +3,7 @@ package api
 import (
 	"time"
 
-	"github.com/enbility/eebus-go/api"
+	"github.com/lyn0904/eebus-go/api"
 	"github.com/lyn0904/spine-go/model"
 )
 
